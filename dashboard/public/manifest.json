@@ -9,7 +9,7 @@
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "chrome_url_overrides" : {
-    "newtab": "newtab.html"
+    "newtab": "index.html"
   },
   "browser_action": {
     "default_icon": "hello_extensions.png"
